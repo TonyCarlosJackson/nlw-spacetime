@@ -18,5 +18,3 @@ Você pode visualizar o layout do projeto através
 
 # É necessário ter uma conta no [Figma](https://www.figma.com)
 # É necessário ter uma conta no [Figma](https://www.figma.com)
-
-
